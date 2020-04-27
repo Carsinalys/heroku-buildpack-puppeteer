@@ -1,1 +1,1 @@
-heroku buildpack
+heroku buildpack for puppeteer
